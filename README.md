@@ -1,6 +1,10 @@
 <img src="./diagram.png" width="600px"></img>
 
 ## Generative TimeSformer - Pytorch
+
+| :exclamation:  This repository forks from [lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)   |
+|-----------------------------------------|
+
 This fork attemps to extend the purpose of TimeSformer to video generation for future frame prediction. 
 The purpose is solely educative and experimental.
 
