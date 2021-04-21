@@ -2,7 +2,7 @@
 
 ## Generative TimeSformer - Pytorch
 
-| :exclamation:  This repository forks from [lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)   |
+| :exclamation:  This repository is based on [lucidrains/TimeSformer-pytorch](https://github.com/lucidrains/TimeSformer-pytorch)   |
 |-----------------------------------------|
 
 This fork attemps to extend the purpose of TimeSformer to video generation for future frame prediction. 
